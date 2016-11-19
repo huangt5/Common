@@ -1,0 +1,11 @@
+VS2015 with resharper
+General
+Options
+
+IDEA
+Debugger: Java, Debugger
+Editor Colors
+General
+Key maps
+Look and Feel
+UI Settings
